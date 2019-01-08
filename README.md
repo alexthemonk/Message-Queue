@@ -7,6 +7,6 @@ gcc -pthread -o node node.c
 
 gcc -pthread -o printer printer.c
 
-gcc -pthread -o node node.c
+gcc -pthread -o hack hack.c
 
 Then open multiple terminals to run every node simutaneously. 
